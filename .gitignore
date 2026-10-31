@@ -1,0 +1,9 @@
+# Binários gerados por go build
+/go-api-lab
+*.exe
+
+# Saída de cobertura de testes
+coverage.out
+
+# Variáveis de ambiente locais (nunca versionar segredos)
+.env
